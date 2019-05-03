@@ -9,6 +9,6 @@ Q2 monitor: add Stex,Cryptobridge,Tradeogre,Crex24, dataframe: numpy.js arrray p
 
 Q3 add more algorythme eyes volume movement by day
 
-Q4 auto arbitrage jsonrpc
+Q4 arbitrage jsonrpc post book order sell and buy auto
 
 Q7 add virtual machine
