@@ -9,6 +9,6 @@ Q2 monitor: add Graviex,Stex,Tradeogre,Crex24,Escrodex dataframe: numpy.js arrra
 
 Q3 add more algorythme; volume movement by day
 
-Q4 arbitrage jsonrpc post book order sell and buy auto
+Q4 arbitrage jsonrpc post bookorder sell and buy auto
 
 Q7 add virtual machine
