@@ -7,7 +7,7 @@ Q1 monitor: South-exchange
 
 Q2 monitor: add Stex,Cryptobridge,Tradeogre,Crex24, dataframe: numpy.js arrray pandas.js front end with color,alarm and sound all reactive
 
-Q3 add more algorythme eyes volume movement by day
+Q3 add more algorythme; volume movement by day
 
 Q4 arbitrage jsonrpc post book order sell and buy auto
 
