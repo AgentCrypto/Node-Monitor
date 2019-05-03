@@ -1,5 +1,5 @@
 
-Bienvenue sur Node.js,Express,GraphQL,React.js,Babel,PostCSS,Webpack,Browsersync et Sql
+Bienvenue sur React,Node.js,Express,GraphQL,Babel,PostCSS,Webpack,Browsersync et Sql
 
 road map :
 
